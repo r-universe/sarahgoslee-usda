@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "landsat"]
-	path = landsat
-	url = https://github.com/cran/landsat
 [submodule "VFS"]
 	path = VFS
 	url = https://github.com/sarahgoslee-usda/vfs
+[submodule "landsat"]
+	path = landsat
+	url = https://github.com/cran/landsat

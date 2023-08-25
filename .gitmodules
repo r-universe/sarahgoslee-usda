@@ -5,6 +5,3 @@
 [submodule "VFS"]
 	path = VFS
 	url = https://github.com/sarahgoslee-usda/vfs
-[submodule "landsat"]
-	path = landsat
-	url = https://github.com/cran/landsat
